@@ -1,0 +1,32 @@
+body {
+  color:beige;
+  background-color: #111111;
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+}
+
+#window {
+  max-width: 800px;
+  object-fit: contain;
+
+  background-color: #333333;
+  border: 1px solid #333333;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#roll-call {
+  display: flex;
+  gap: 24.4%;
+}
+
+h1 {
+  text-align: center;
+}
+
+a:visited {
+  color: beige;
+}
