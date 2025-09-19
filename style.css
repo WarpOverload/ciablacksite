@@ -27,6 +27,10 @@ h1 {
   text-align: center;
 }
 
-a:visited {
+a:visited a:link {
   color: beige;
+}
+
+a:hover {
+  color: gold
 }
