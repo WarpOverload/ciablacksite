@@ -22,4 +22,10 @@ h1 {
   text-align: center;
 }
 
+a {
+  color: beige;
+}
 
+a:hover {
+  color: gold;
+}

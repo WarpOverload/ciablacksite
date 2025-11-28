@@ -1,0 +1,39 @@
+body {
+  color:beige;
+  background-color: #111111;
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+}
+
+#window {
+  max-width: 800px;
+  background-color: #333333;
+  border: 1px solid #333333;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* #roll-call { */
+  /* display: flex; */
+  /* gap: 15.82%; */
+/* } */
+
+h1 {
+  text-align: center;
+}
+
+
+a, p {
+  color: beige;
+  border: 1px solid #ccc;
+  border-style: hidden;
+  padding: 10px;
+}
+
+a:hover {
+  color: gold
+}
+
