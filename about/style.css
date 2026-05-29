@@ -22,4 +22,22 @@ h1 {
   text-align: center;
 }
 
+a {
+  color: beige;
+}
 
+a:hover {
+  color: gold;
+}
+
+#faq {
+  object-fit: contain;
+  background-color: #212122;
+  border: 1px solid #555555;
+  border-radius: 8px;
+  margin: 40px;
+}
+
+h2 {
+  text-align: center;
+}
