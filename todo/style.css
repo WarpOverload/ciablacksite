@@ -25,8 +25,7 @@ h1 {
   text-align: center;
 }
 
-
-a, p {
+a {
   color: beige;
   border: 1px solid #ccc;
   border-style: hidden;
@@ -35,5 +34,24 @@ a, p {
 
 a:hover {
   color: gold
+}
+
+/* #roll-call-2 { */
+  /* display: flex; */
+  /* gap: 15.82%; */
+/* } */
+
+#roll-call {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; 
+}
+
+#roll-call-2 { 
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
